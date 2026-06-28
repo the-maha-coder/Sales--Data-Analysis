@@ -31,11 +31,11 @@ Billing locations help identify high-performing regions.
 Interactive visuals allow users to explore data efficiently.
 
 Files Included:
-Sales Dashboard.pbix
-Home Page Screenshot
-HO Page Screenshot
-West Page Screenshot
-South Page Screenshot
-North Page Screenshot
-East Page Screenshot
-Detailed Report Screenshots
+Sales Dashboard.pbix,
+Home Page Screenshot,
+HO Page Screenshot,
+West Page Screenshot,
+South Page Screenshot,
+North Page Screenshot,
+East Page Screenshot,
+Detailed Report Screenshots.
